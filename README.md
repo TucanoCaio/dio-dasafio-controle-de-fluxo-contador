@@ -1,5 +1,5 @@
 # dio-dasafio-controle-de-fluxo-contador
-Desafio de Controle de Fluxo - Exercitar sintaxe de controlede fluxo em java e desenvolver um algoritimo contador atravez de parametros inseridos via terminal. Abaixo os requisitos para o desafio.
+Desafio de Controle de Fluxo - Exercitar sintaxe de controle de fluxo em Java e desenvolver um algoritmo contador através de parâmetros inseridos via terminal. Abaixo os requisitos para o desafio.
 
 # DIO - Trilha Java Básico
 www.dio.me
